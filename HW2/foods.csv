@@ -1,0 +1,13 @@
+foodID,name,type,price
+1,Pasta,Italian,12.00
+2,Lasagna,Italian,15.00
+3,Sushi,Rice,10.00
+4,Tempura,Seafood,14.00
+5,Tacos,Mexican,8.00
+6,Burrito,Mexican,11.00
+7,Coq au Vin,French,18.00
+8,Crepes,French,9.00
+9,Pad Thai,Thai,13.00
+10,Green Curry,Thai,11.00
+11,Butter Chicken,Indian,12.00
+12,Paneer Tikka,Indian,15.00
